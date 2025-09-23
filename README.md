@@ -1,4 +1,4 @@
-# 🏡 Unity Homework 1 – Scene Recreation
+# 🏡 Unity Homework 2 – Scene Recreation
 
 ## 🎯 Objectif du projet
 Reproduire une scène 3D dans Unity à partir d’une **photo de référence trouvée sur Internet**.  
